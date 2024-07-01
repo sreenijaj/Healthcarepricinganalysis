@@ -2,6 +2,7 @@
 ## Overview
 This project focuses on analyzing hospital costs to aid employers in understanding healthcare pricing dynamics. Using private health plan claims data, this analysis provides an in-depth comparison of hospital prices at both facility and service line levels across various states.
 
+## Dataset Used : https://www.rand.org/pubs/research_reports/RR4394.html
 ## Project Scope
 The analysis spans from January 22, 2024, to May 16, 2024, aiming to compile detailed reports on hospital spending and price comparisons to facilitate better decision-making for buyers supporting their staff's healthcare needs.
 
